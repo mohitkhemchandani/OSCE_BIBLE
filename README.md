@@ -35,5 +35,7 @@
 * [ExpDev](https://github.com/simonuvarov/expdev) - This is a list of vulnerable software, which I used to prepare for OSCE course.
 
 * [Slink](https://github.com/ihack4falafel/Slink) - Alphanumeric Shellcode (x86) Encoder 
+* [PrepOSCE](https://github.com/f0rgetful/PrepOSCE) - Repo to keep track of everything I've been studying
+
 
 
